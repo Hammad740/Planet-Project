@@ -1,4 +1,5 @@
 # Planet-Project
 
 ## Kepler exoplanets
-### list of habitable planets
+### This project contains the list of habitable planets from the Nasa's observation from the kepler telescope.
+
